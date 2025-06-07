@@ -1,0 +1,243 @@
+/* ==UserStyle==
+@name         Skeuomorphic Google Classroom
+@version      20241029.22.34
+@namespace    https://userstyles.world/user/SatinFoil
+@description  A nice skeuomorphic theme for Google Classroom
+@author       SatinFoil
+@license      No License
+==/UserStyle== */
+
+@-moz-document domain("classroom.google.com") {
+/* .QRiHXd, */ .qk0lee, #kO001e, .joJglb, .n4xnA, .d4Fe0d:not(.JZicYb, .YJHsie, .onkcGd) {
+    background: linear-gradient(#f3f3f3 0%, #ddd 50%, #c4c4c4 50%, #eaeaea 100%);
+}
+    /* To Do */
+.pzaVke {
+    /* background: black !important; */
+}
+    /* To Do End */
+.onkcGd, .notranslate, .Mtd4hb, .fB7J9c {
+    background: transparent !important;
+}
+.hN1OOc.eumXzf::after {
+    border-width: 13px;
+    border-image: linear-gradient(#00a9ff00, #00a9ffbf) 30;
+}
+.hN1OOc.eumXzf:hover::after {
+    border-image: linear-gradient(#00a9ff00, #00a9ff66) 30;
+}
+.d4Fe0d span {
+    font-size: 14px;
+}
+.KEDCCd {
+    background: linear-gradient(#595959e8, #303030e3), url(https://img.freepik.com/free-photo/noisy-background_1194-7547.jpg?semt=ais_hybrid&w=740) !important;
+    color: white !important;
+}
+.bFjUmb-Ysl7Fe {
+    background: linear-gradient(#08f, #0067af) !important;
+}
+.rknsod {
+    background: linear-gradient(#e7e7e7d6, #afafafd1), url(https://cdn.pixabay.com/photo/2014/12/18/13/50/metal-572472_960_720.jpg) !important;
+}
+.u2mfde {
+    color: white !important;
+}
+.u2mfde {
+    border-left: 1px solid #474747;
+    border-right: 1px solid #474747;
+}
+.u2mfde:hover {
+    background: linear-gradient(#303030, #595959) !important;
+    /* text-shadow: 0px 0px 15px white, 1px 0px 15px white, 0px 1px 15px white; */
+    text-shadow: 0px 0px 15px #35bbff, 1px 0px 15px #35bbff, 0px 1px 15px #35bbff !important;
+}
+.u2mfde:hover {
+    color: #35bbff !important;
+    transition: 0.2s;
+}
+.u2mfde {
+    transition: 0.2s;
+}
+.tfGBod {
+    border: 5px solid #fff0;
+}
+.NMm5M {
+    color: black;
+}
+.kFwPee {
+    background: linear-gradient(#f3f3f3, #bebebe) !important;
+}
+.IzVHde {
+    background: linear-gradient(#f3f3f3, #bebebe) !important;
+}
+.v9TZ3c {
+    box-shadow: 0px 5px 10px #939393 !important;
+}
+/* sidebar */
+.OX4Vcb {
+   background: linear-gradient(#f3f3f3, #979797);
+    /* background: url(); */
+    background-size: 100vw 100vh;
+}
+.STek2d {
+    box-shadow: 5px 7px 30px #6b6b6b !important;
+}
+/* buttons */
+.VfPpkd-LgbsSe {
+    background: linear-gradient(#63bef7 0%, #3e93c8 50%, #006eb3 50%, #86d1ff 100%) !important;
+    color: white !important;
+    transition: 0.2s;
+}
+.VfPpkd-LgbsSe:hover {
+    background: linear-gradient(#63edf7 0%, #3ec8c6 50%, #009bb3 50%, #86fffd 100%) !important;
+    text-shadow: 0px 0px 15px #fff, 1px 0px 15px #fff, 0px 1px 15px #fff;
+    transition: 0.2s;
+}
+.VfPpkd-dgl2Hf-ppHlrf-sM5MNb svg {
+    color: white !important;
+}
+/* Home */
+.Vx8Sxd {
+    color: black !important;
+}
+}
+.YJHsie {
+    background: transparent !important;
+}
+.YJHsie svg {
+    color: white !important;
+}
+/* Course thingies */
+.gHz6xd {
+    background: linear-gradient(#f3f3f3 20%, #8d8d8d 80%);
+    border-radius: 5px !important;
+    box-shadow: 5px 6px 15px #414141 !important;
+    border: none !important;
+}
+.gHz6xd.rZXyy:not(.kKn9Nc):not(.u0dx8e):hover {
+	border: none;
+	margin-top: 0rem !important;
+    margin-right: 1.5rem !important;
+    margin-bottom: 1.5rem !important;
+    margin-left: 0rem !important;
+}
+.JwPp0e {
+    min-height: 800px !important;
+}
+.PNzAWd {
+    box-shadow: 0px 7px 5px #545454 !important;
+}
+/* Banner */
+.VfPpkd-WLXbod, .geqPvd {
+    background: linear-gradient(#ebf763 0%, #bdc83e 50%, #b3b300 50%, #fff78d 100%) !important;
+}
+.VfPpkd-Rj7Y9b {
+    font-weight: bold !important;
+    color: white !important;
+    font-size: 15px !important;
+}
+.Vx8Sxd {
+    color: #fff !important;
+}
+/* Class Work */
+.NoUlnb {
+    background: linear-gradient(#d8d8d8, #a9a9a9);
+}
+.jWCzBe {
+    background: linear-gradient(#d8d8d8, #a9a9a9);
+    border-radius: 4px !important;
+}
+/* Calender */
+.F262Ye:not(.dDKhVc) {
+    background: linear-gradient(#3386f3, #0c499a) !important;
+}
+.xSP5ic {
+    color: white !important;
+}
+.V203cd {
+    background: linear-gradient(#d4d4d4, #4c4c4c);
+}
+/* Settings */
+.mSaSG {
+    background: linear-gradient(#d4d4d4, #989898);
+    box-shadow: 5px 6px 15px #414141 !important;
+}
+/* Misc */
+.N6nSod {
+    background: linear-gradient(#d4d4d4, #a1a1a1);
+    box-shadow: 0px 6px 15px #414141 !important;
+}
+/* Content Menu */
+.VfPpkd-xl07Ob-XxIAqe {
+    background: #009cff85;
+    backdrop-filter: blur(3px);
+}
+.VfPpkd-StrnGf-rymPhb-b9t22c {
+    color: white;
+}
+.VfPpkd-P5QLlc {
+    background: #009cff85 !important;
+    backdrop-filter: blur(3px) !important;
+}
+.VfPpkd-P5QLlc h3, .VfPpkd-P5QLlc p, .VfPpkd-P5QLlc li, .VfPpkd-P5QLlc span {
+    color: white !important;
+}
+.ECOutf, .zaxms {
+    background: #009cff00 !important;
+    backdrop-filter: blur(0px) !important;
+}
+.VfPpkd-IE5DDf {
+    background: #00000036 !important;
+}
+/* Top Bar */
+.EHzcec {
+    background: #009cff85 !important;
+    backdrop-filter: blur(3px) !important;
+    border-radius: 5px !important;
+}
+.LVal7b {
+    background: #009cff00 !important;
+    backdrop-filter: blur(0px) !important;
+}
+.LVa17b * {
+    color: white !important;
+}
+/* , , .ut3Ak, .tqFCve, .V5tzAf, .aFCkf, .bMnvr
+#yDmH0d {
+    background: #009cff85 !important;
+    backdrop-filter: blur(3px) !important;
+    border-radius: 5px !important;
+}
+.sZ3gbf, .XB27pc {
+    background: #009cff00 !important;
+    backdrop-filter: blur(0px) !important;
+} */
+/* Post */
+.tAVIoc, .EN2Rfc {
+    background: rgba(86, 86, 86, .22) !important;
+}
+.LZqXdf {
+    background: linear-gradient(#d4d4d4, #989898);
+}
+.etr9pd, .oh9CFb {
+    background: linear-gradient(#d4d4d4, #989898) !important;
+    box-shadow: 0px 6px 15px #414141 !important;
+}
+.RcHwO:hover {
+    background: linear-gradient(#aeaeae, #777) !important;
+}
+.Aopndd {
+    background: linear-gradient(#d4d4d4, #989898);
+}
+/* To Do (tab) */
+.e2urcc {
+    background: linear-gradient(#b8b8b8, #696969) !important;
+    border-radius: 5px;
+}
+.n8gX0b {
+    display: none;
+}
+.W7g1Rb-rymPhb {
+    background: #009cff70 !important;
+    backdrop-filter: blur(3px) !important;
+}
