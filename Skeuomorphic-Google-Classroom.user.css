@@ -11,11 +11,17 @@
 /* .QRiHXd, */ .qk0lee, #kO001e, .joJglb, .n4xnA, .d4Fe0d:not(.JZicYb, .YJHsie, .onkcGd) {
     background: linear-gradient(#f3f3f3 0%, #ddd 50%, #c4c4c4 50%, #eaeaea 100%);
 }
-    /* To Do */
-.pzaVke {
-    /* background: black !important; */
+.wQiG5d {
+    background: linear-gradient(#08f, #0067af) !important;
 }
-    /* To Do End */
+.DmLMLb-gkkIFf {
+    background: linear-gradient(#ebf763 0%, #bdc83e 50%, #b3b300 50%, #fff78d 100%) !important;
+}
+    .DmLMLb-Rj7Y9b {
+        color: white !important;
+        font-weight: bold;
+        font-size: 15px !important;
+    }
 .onkcGd, .notranslate, .Mtd4hb, .fB7J9c {
     background: transparent !important;
 }
@@ -240,4 +246,20 @@
 .W7g1Rb-rymPhb {
     background: #009cff70 !important;
     backdrop-filter: blur(3px) !important;
+}
+/* Buttons */
+/* Todo */
+/* Fix text glow, apply to rest of the buttons */
+.UywwFc-RLmnJb {
+    background: linear-gradient(#63bef7 0%, #3e93c8 50%, #006eb3 50%, #86d1ff 100%) !important;
+    color: white !important;
+    transition: 0.2s;
+    border-radius: 50px;
+}
+.UywwFc-RLmnJb:hover {
+    background: linear-gradient(#63edf7 0%, #3ec8c6 50%, #009bb3 50%, #86fffd 100%) !important;
+}
+.UywwFc-RLmnJb:hover span {
+    text-shadow: 0px 0px 15px #fff, 1px 0px 15px #fff, 0px 1px 15px #fff;
+    transition: 0.2s;
 }
